@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m a Software Engineer passionate about solving complex
 ## 🔧 Skills & Technologies
 
 - **Programming Languages**: Python, JavaScript, Swift, C++, SQL
-- **Web Development**: React, FastAPI, Flask, Tailwind CSS, Svelte, HTML/CSS
+- **Web Development**: React, FastAPI, Flask, Tailwind CSS, HTML/CSS
 - **Mobile Development**: Swift (iOS), using UIKit components, interactive UI development
 - **Databases**: MariaDB, MySQL, Google Cloud Storage, SQLAlchemy, MySQLdb
 - **DevOps & Cloud**: Google Cloud Platform (GCP), Render
