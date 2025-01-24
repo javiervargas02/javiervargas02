@@ -15,15 +15,6 @@ Welcome to my GitHub! I’m a Software Engineer passionate about solving complex
 
 I have worked on several projects that showcase my ability to bridge the gap between frontend and backend development. Here are a few notable experiences:
 
-### **Paramount Die** | Software Engineer Intern  
-_FEBRUARY 2024 - PRESENT, San Pedro Garza García, NL. México_  
-- Developed and deployed a Single Page Application (SPA) using React, focusing on user-friendly interface design.
-- Built the backend with Python’s FastAPI framework and deployed the API using Render for seamless cloud operations.
-- Developed a dynamic PDF report generator that aggregates and analyzes data from industry records, providing valuable insights to enhance decision-making processes.
-- Implemented custom hooks and managed page routing with react-router-dom to optimize navigation and code modularity.
-- Designed and secured API endpoints, ensuring proper authorization, file handling, and database connectivity for data transfer.
-- Integrated internationalization (i18n) using the react-i18next library to support multi-language users.
-
 ### **Gene Paradox** | Software Engineer Intern  
 _AUGUST 2023 - PRESENT, San Pedro Garza García, NL. México_  
 - Developed and deployed a Single Page Application (SPA) using React, designing all interfaces with best UI/UX practices.
@@ -37,6 +28,17 @@ _JULY 2022 - PRESENT, San Pedro Garza García, NL. México_
 - Designed and developed 25+ multilingual chatbots for various sectors, optimizing user experience and lead capture.
 - Customized conversational flows based on client needs and integrated with Zoho CRM via PHP webhooks and API.
 - Managed client feedback to enhance chatbot performance and collaborated with translators for accurate multilingual dialogues.
+
+### **Paramount Die** | Software Engineer Intern  
+_FEBRUARY 2024 - JANUARY 2025, San Pedro Garza García, NL. México_  
+- Developed and deployed a Single Page Application (SPA) using React, focusing on user-friendly interface design.
+- Built the backend with Python’s FastAPI framework and deployed the API using Render for seamless cloud operations.
+- Developed a dynamic PDF report generator that aggregates and analyzes data from industry records, providing valuable insights to enhance decision-making processes.
+- Implemented custom hooks and managed page routing with react-router-dom to optimize navigation and code modularity.
+- Designed and secured API endpoints, ensuring proper authorization, file handling, and database connectivity for data transfer.
+- Integrated internationalization (i18n) using the react-i18next library to support multi-language users.
+
+---
 
 ### **Fullstack Project** | Mom & Pop Web  
 _FEBRUARY 2023 - MAY 2023, San Pedro Garza García, NL. México_  
